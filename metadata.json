@@ -1,0 +1,6 @@
+{
+  "name": "InkFlow Blog Platform",
+  "description": "Full-stack blogging platform with user authentication, rich post authoring, comments, tags, and interactive RESTful API explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
